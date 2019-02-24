@@ -1,0 +1,34 @@
+{
+  "number":"ben.stokman@protonmail.com",
+  "callerID": {
+    "name":"Ben Stokman",
+    "email":"ben.stokman@protonmail.com",
+    "webpage":"https://benstokman.me",
+    "pgpFingerprint": {
+      "type":"SHA256",
+"value":"b48e5fcb760d7c819c66f3db752f17ec3dda360cf2fbb5d29f0cf06e668cd13c"
+    },
+    "imageURL":"https://benstokman.me/profile-picture.jpeg",
+    "language":"en-us"
+  },
+  "rules": {
+    "callLimit":"none",
+    "callTimezone":"none",
+    "callTimeout":30,
+    "verification":"enforce",
+    "encryption":"enforce",
+    "robots":"deny"
+  },
+  "verificationKey":"18a8e0a603625e7687ee18801b45c70f15943d4637b10c77db029a264f51ba91",
+  "methods":[
+    {
+      "priority":0,
+      "Server":"mail.protonmail.ch",
+      "userID":"ben.stokman",
+      "publicKey":"855910b5fbca6d856d3d87b1b0dde1d9e010a5022e467362063feb152710c9",
+      "ssl":"enforce",
+      "sslFootprintSHA256":"16:FA:5B:FB:62:D4:DC:82:EC:19:AF:9F:07:FF:10:2E:12:8D:67:0B:AD:EF:A7:CD:5B:30:85:AD:55:6E:F8:1D"
+    },
+  ]
+}
+
